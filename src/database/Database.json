@@ -1,0 +1,390 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "street": "Via Roma",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+    "country": "Italy"
+    },
+    {
+      "id": 2,
+      "street": "Via Torino",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    },
+    {
+      "id": 3,
+      "street": "Via Dante",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    },
+    {
+      "id": 4,
+      "street": "Via Manzoni",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    },
+    {
+      "id": 5,
+      "street": "Via Montenapoleone",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    },
+    {
+      "id": 6,
+      "street": "Via della Spiga",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    },
+    {
+      "id": 7,
+      "street": "Corso Vittorio Emanuele II",
+      "number": "1",
+      "city": "Rome",
+      "zip": "00042",
+      "country": "Italy"
+    },
+    {
+      "id": 8,
+      "street": "Corso Buenos Aires",
+      "number": "1",
+      "city": "Milano",
+      "zip": "20100",
+      "country": "Italy"
+    }
+  ],
+  "holidays": [
+    {
+      "id": 1,
+      "title": "Italian Republic Day",
+        "startDate": "2023-11-02",
+      "duration": 5,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 2,
+        "street": "Via Torino",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+      },
+    {
+        "id": 2,
+        "title": "Christmas",
+        "startDate": "2023-12-25",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+        },
+        {
+        "id": 3,
+        "title": "New Year",
+        "startDate": "2023-12-31",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 3,
+            "street": "Via Dante",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+        },
+        {
+        "id": 4,
+        "title": "Epiphany",
+        "startDate": "2024-01-06",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 6,
+            "street": "Via della Spiga",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+        },
+        {
+        "id": 5,
+        "title": "Easter",
+        "startDate": "2024-04-01",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 4,
+            "street": "Via Manzoni",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+        },
+    {
+      "id": 6,
+      "title": "Easter Monday",
+      "startDate": "2024-04-02",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 1,
+        "street": "Via Roma",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Liberation Day",
+      "startDate": "2024-04-25",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 5,
+        "street": "Via Montenapoleone",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Labour Day",
+      "startDate": "2024-05-01",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 7,
+        "street": "Corso Vittorio Emanuele II",
+        "number": "1",
+        "city": "Rome",
+        "zip": "00042",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Republic Day",
+      "startDate": "2024-06-02",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 8,
+        "street": "Corso Buenos Aires",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Assumption of Mary",
+      "startDate": "2024-08-15",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 2,
+        "street": "Via Torino",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 11,
+      "title": "All Saints' Day",
+      "startDate": "2024-11-01",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 3,
+        "street": "Via Dante",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Immaculate Conception",
+      "startDate": "2024-12-08",
+      "duration": 1,
+      "price": "1000",
+      "freeSlots": 10,
+      "location": {
+        "id": 4,
+        "street": "Via Manzoni",
+        "number": "1",
+        "city": "Milano",
+        "zip": "20100",
+        "country": "Italy"
+        }
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "contactName": "Dario Luca",
+      "phoneNumber": "+393334567890",
+      "holiday": {
+        "id": 1,
+        "title": "Italian Republic Day",
+        "startDate": "2023-11-02",
+        "duration": 5,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "contactName": "Mateo Lucianno",
+      "phoneNumber": "+39123991912",
+      "holiday": {
+        "id": 2,
+        "title": "Christmas",
+        "startDate": "2023-12-25",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "contactName": "Francesca Rossi",
+      "phoneNumber": "+39190231882",
+      "holiday": {
+        "id": 3,
+        "title": "New Year",
+        "startDate": "2023-12-31",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 3,
+            "street": "Via Dante",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "contactName": "Gianni Rossi",
+      "phoneNumber": "+393334567890",
+      "holiday": {
+        "id": 4,
+        "title": "Epiphany",
+        "startDate": "2024-01-06",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "contactName": "Elena Bianchi",
+      "phoneNumber": "+394211675246",
+      "holiday": {
+        "id": 5,
+        "title": "Easter",
+        "startDate": "2024-04-01",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "contactName": "Regina Phalange",
+      "phoneNumber": "+391511123777",
+      "holiday": {
+        "id": 6,
+        "title": "Easter Monday",
+        "startDate": "2024-04-02",
+        "duration": 1,
+        "price": "1000",
+        "freeSlots": 10,
+        "location": {
+            "id": 1,
+            "street": "Via Roma",
+            "number": "1",
+            "city": "Milano",
+            "zip": "20100",
+            "country": "Italy"
+        }
+      }
+    }
+  ]
+}
